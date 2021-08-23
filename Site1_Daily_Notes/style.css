@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Rampart+One&display=swap');
+
+body {
+    background-color: rgb(222,250, 229);    
+   
+}
+
+#container{
+    margin: auto;
+    border: coral 30px solid;
+   /* display :flex; */
+
+}
+
+#top{
+    border: 4px solid cornflowerblue;
+}
+
+#hpic{
+    width : 25%;
+    height : 25%;
+    border : solid black 3px; 
+    /* display:block; */
+    position: relative;
+    left:37%; 
+  
+
+    }
+
+#hd{
+    border: solid black 5px;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Rampart One';
+}
+
+.note{
+    font-weight: bold;
+    font-size: 21px;
+}
